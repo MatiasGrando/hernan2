@@ -13,6 +13,7 @@ pokemon elegirCompanieroPokemon(){
         //DECLARAMOS  VARIABLES DE TIPO POKEMON
         pokemon picachu,charmander,pepeGrillo;
 
+        //1111111111
 
         //DAMOS VALOR A LOS ATRIBUTOS (VARIABLES) DE LOS POKEMONS
         picachu.vida = 10;
