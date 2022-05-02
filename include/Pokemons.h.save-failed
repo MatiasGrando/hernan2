@@ -1,0 +1,16 @@
+#ifndef POKEMONS_H
+#define POKEMONS_H
+
+
+class Pokemons
+{
+    public:
+        Pokemons();
+        virtual ~Pokemons();
+
+    protected:
+
+    private:
+};
+
+#endif // POKEMONS_H
