@@ -14,6 +14,9 @@ pokemon elegirCompanieroPokemon(){
         pokemon picachu,charmander,pepeGrillo;
 
         //1111111111
+        //222
+        //333
+        //4444444
 
         //DAMOS VALOR A LOS ATRIBUTOS (VARIABLES) DE LOS POKEMONS
         picachu.vida = 10;
@@ -47,6 +50,9 @@ void crearPokemon(pokemon listaPokemons[],pokemonsCreados){
 
     listaPokemons[pokemonsCreados] = pokemonNuevo;
 }
+
+//LLLLLLLLLLLLLLLLLLLLL
+
 
 int main()
 {
